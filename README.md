@@ -4,8 +4,8 @@ Think DSP : Digital Signal Processing in Python
 
 **List**
 
-Chapter 1 - Exercise 1.2
-Chapter 2 - Exercise 2.3
-Chapter 3 - Exercise 3.3
+Chapter 1 - Exercise 1.2<br />
+Chapter 2 - Exercise 2.3<br />
+Chapter 3 - Exercise 3.3<br />
 
 and others
